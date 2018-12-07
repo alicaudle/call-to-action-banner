@@ -28,20 +28,20 @@ body {
   justify-content: space-between;
   position: absolute;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   top: 50%;
   left: 50%;
-  bottom: 30%;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
 }
 
 .banner-content > img {
-  width: 30%;
+  width: 40%;
   display: block;
 }
 
 .banner-text {
   display: inline;
+  width: 50%;
 }
 
 h2 {
