@@ -36,12 +36,12 @@ body {
 }
 
 .banner-content > img {
-  width: 40%;
+  width: 33%;
   display: block;
 }
 
 .banner-text {
-  width: 50%;
+  width: 60%;
 }
 
 h2 {
@@ -49,6 +49,7 @@ h2 {
   font-size: 3rem;
   margin: 0;
   font-weight: bold;
+  line-height: 1.2;
 }
 
 p {
